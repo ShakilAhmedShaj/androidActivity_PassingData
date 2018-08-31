@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">androidActivity_PassingData</string>
+
+    <string name="second_activity_BTN__text">Android</string>
+    <string name="first_activity_text">This is First Activity</string>
+
+
+</resources>
